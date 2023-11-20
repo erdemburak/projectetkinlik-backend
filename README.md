@@ -8,7 +8,7 @@ Etkinlik projesinin back-end bölümü bu repository içerisinde bulunmaktadır.
 Bu projenin docker imajı oluşturuldu ve Aws üzerinden deploy edildi.
 
 - DockerHub : https://hub.docker.com/r/erdemburak/projectetkinlikv2
-- Tüm Etkinlikleri listelemek için: http://51.20.118.182/api/v1/etkinlik/list
-- Etkinlik oluşturmak için : http://51.20.118.182/api/v1/etkinlik/create
-- Id'ye göre etkinlik çekmek için: http://51.20.118.182/api/v1/etkinlik/list/{id}
-- Id'ye göre etkinlik silmek için: http://51.20.118.182/api/v1/etkinlik/delete/{id}
+- Tüm Etkinlikleri listelemek için: http://51.20.142.51/api/v1/etkinlik/list
+- Etkinlik oluşturmak için : http://51.20.142.51/api/v1/etkinlik/create
+- Id'ye göre etkinlik çekmek için: http://51.20.142.51/api/v1/etkinlik/list/{id}
+- Id'ye göre etkinlik silmek için: http://51.20.142.51/api/v1/etkinlik/delete/{id}
